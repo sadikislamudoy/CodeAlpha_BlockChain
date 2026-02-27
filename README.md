@@ -7,7 +7,9 @@
 
 🛠️ Task 1: Simple Storage Smart Contract
 
-🛠️ Task 1: Multi Send Smart Contract
+🛠️ Task 2: Multi Send Smart Contract
+
+🛠️ Task 3: Polling System Smart Contract
 
 
 🚀 Technical Stack
