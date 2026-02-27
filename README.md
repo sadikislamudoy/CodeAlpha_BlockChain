@@ -5,11 +5,18 @@
     This repository contains my submission for the Blockchain Development Internship at CodeAlpha. 
     
 
-🛠️ Task 1: Simple Storage Smart Contract
 
-🛠️ Task 2: Multi Send Smart Contract
 
-🛠️ Task 3: Polling System Smart Contract
+🛠️Tasks Completed
+ 
+    Task 1: Simple Storage Smart Contract
+
+    Task 2: Multi-Send Smart Contract
+
+    Task 3: Polling System Smart Contract
+
+
+
 
 
 🚀 Technical Stack
@@ -19,6 +26,9 @@
     IDE: Remix 
     
     Platform: Ethereum 
+
+
+
     
 
 🔗 Connect with Me
