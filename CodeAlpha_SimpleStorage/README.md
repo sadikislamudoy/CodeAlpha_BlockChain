@@ -1,4 +1,4 @@
-CodeAlpha_SimpleStorage
+Project Name: CodeAlpha_SimpleStorage
 
 📌 Project Overview
 This repository contains my submission for Task 1 of the Blockchain Development Internship at CodeAlpha. The project involves creating a foundational smart contract using Solidity to manage and store an integer value on the Ethereum blockchain.
